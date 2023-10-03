@@ -1,1 +1,1 @@
-0X00basics
+this is the project directory
